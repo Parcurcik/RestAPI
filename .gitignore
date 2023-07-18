@@ -1,0 +1,5 @@
+__pycache__
+venv/
+.idea
+db/__pycache__
+parse_rambler.db
