@@ -24,7 +24,7 @@ def get_db():
 def run_parser():
     while True:
         parse_news()
-        time.sleep(1200)
+        time.sleep(42300)
 
 
 parser_thread = threading.Thread(target=run_parser)
